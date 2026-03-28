@@ -1,0 +1,21 @@
+customerID,gender,tenure,MonthlyCharges,Contract,Churn
+CUST1,Male,1,29.5,Month-to-month,Yes
+CUST2,Female,5,56.2,One year,No
+CUST3,Male,2,33.1,Month-to-month,Yes
+CUST4,Female,8,75.5,Two year,No
+CUST5,Male,10,89.0,Two year,No
+CUST6,Female,3,45.2,Month-to-month,Yes
+CUST7,Male,6,60.3,One year,No
+CUST8,Female,12,95.0,Two year,No
+CUST9,Male,4,40.0,Month-to-month,Yes
+CUST10,Female,7,70.1,One year,No
+CUST11,Male,9,85.3,Two year,No
+CUST12,Female,11,99.9,Two year,No
+CUST13,Male,2,30.0,Month-to-month,Yes
+CUST14,Female,14,110.5,One year,No
+CUST15,Male,15,120.0,Two year,No
+CUST16,Female,1,25.0,Month-to-month,Yes
+CUST17,Male,13,105.0,One year,No
+CUST18,Female,6,65.0,One year,No
+CUST19,Male,8,80.0,Two year,No
+CUST20,Female,10,90.0,Two year,No
